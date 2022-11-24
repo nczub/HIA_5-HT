@@ -1,0 +1,9 @@
+[DEFAULT]
+# train dataset with first column as indices for k-fold cv
+test_dataset = mljar_test_IVIVC_multiple_C.txt
+automl_directory = AutoML_1
+test_dataset_separator = \t
+header = 0
+test_result_file = t-res_external_validation_predictions.csv
+
+[USERCONFIG]

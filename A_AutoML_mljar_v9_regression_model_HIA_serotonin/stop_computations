@@ -1,0 +1,3 @@
+#!/bin/bash
+rm -f /home/comp/COMPUT/work/crit/multicore
+exit 0
