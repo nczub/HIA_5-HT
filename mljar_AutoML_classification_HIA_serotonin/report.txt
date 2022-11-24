@@ -1,0 +1,570 @@
+Node name is node3
+Start Mon Sep 26 01:37:18 PM CEST 2022
+Processing A_AutoML_mljar_v9_classification_full_HIA_config_11_USERCONFIG_11.tar.gz
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+My algorithms ['Baseline', 'Linear', 'Decision Tree', 'Random Forest', 'Extra Trees', 'LightGBM', 'Xgboost', 'CatBoost', 'Neural Network', 'Nearest Neighbors']
+Random seed: 779871
+Linear algorithm was disabled.
+AutoML directory: mljar_AutoML_Compete_2022_09_26_13_38_07
+The task is binary_classification with evaluation metric logloss
+AutoML will use algorithms: ['Baseline', 'Decision Tree', 'Random Forest', 'Extra Trees', 'LightGBM', 'Xgboost', 'CatBoost', 'Neural Network', 'Nearest Neighbors']
+AutoML will ensemble availabe models
+AutoML steps: ['simple_algorithms', 'default_algorithms', 'not_so_random', 'golden_features', 'insert_random_feature', 'features_selection', 'hill_climbing_1', 'hill_climbing_2', 'ensemble']
+* Step simple_algorithms will try to check up to 4 models
+Custom validation strategy
+Split 0.
+Train 88 samples.
+Validation 10 samples.
+Split 1.
+Train 88 samples.
+Validation 10 samples.
+Split 2.
+Train 88 samples.
+Validation 10 samples.
+Split 3.
+Train 88 samples.
+Validation 10 samples.
+Split 4.
+Train 88 samples.
+Validation 10 samples.
+Split 5.
+Train 88 samples.
+Validation 10 samples.
+Split 6.
+Train 88 samples.
+Validation 10 samples.
+Split 7.
+Train 88 samples.
+Validation 10 samples.
+Split 8.
+Train 89 samples.
+Validation 9 samples.
+Split 9.
+Train 89 samples.
+Validation 9 samples.
+1_Baseline logloss 0.637798 trained in 6.88 seconds
+2_DecisionTree logloss 1.472819 trained in 7.47 seconds
+3_DecisionTree logloss 3.638942 trained in 7.43 seconds
+4_DecisionTree logloss 3.986859 trained in 7.38 seconds
+* Step default_algorithms will try to check up to 6 models
+5_Default_LightGBM logloss 0.613137 trained in 9.39 seconds
+6_Default_Xgboost logloss 0.619177 trained in 12.42 seconds
+7_Default_CatBoost logloss 0.55572 trained in 35.22 seconds
+8_Default_NeuralNetwork logloss 3.765298 trained in 21.23 seconds
+9_Default_RandomForest logloss 0.654054 trained in 40.27 seconds
+10_Default_ExtraTrees logloss 0.680709 trained in 32.03 seconds
+* Step not_so_random will try to check up to 54 models
+20_LightGBM logloss 0.619785 trained in 10.41 seconds
+11_Xgboost logloss 0.588349 trained in 10.58 seconds
+29_CatBoost logloss 0.584516 trained in 74.97 seconds
+38_RandomForest logloss 0.627122 trained in 35.91 seconds
+47_ExtraTrees logloss 0.647047 trained in 29.12 seconds
+56_NeuralNetwork logloss 2.089375 trained in 24.45 seconds
+21_LightGBM logloss 0.635377 trained in 11.3 seconds
+12_Xgboost logloss 0.615231 trained in 12.23 seconds
+30_CatBoost logloss 0.578547 trained in 33.15 seconds
+39_RandomForest logloss 0.607032 trained in 31.21 seconds
+48_ExtraTrees logloss 0.618779 trained in 30.59 seconds
+57_NeuralNetwork logloss 2.419192 trained in 23.42 seconds
+22_LightGBM logloss 0.600279 trained in 12.48 seconds
+13_Xgboost logloss 0.693147 trained in 11.49 seconds
+31_CatBoost logloss 0.550774 trained in 47.35 seconds
+40_RandomForest logloss 0.636576 trained in 34.5 seconds
+49_ExtraTrees logloss 0.653382 trained in 31.61 seconds
+58_NeuralNetwork logloss 3.130641 trained in 25.81 seconds
+23_LightGBM logloss 0.610505 trained in 25.64 seconds
+14_Xgboost logloss 0.594245 trained in 15.23 seconds
+32_CatBoost logloss 0.5759 trained in 66.12 seconds
+41_RandomForest logloss 0.593399 trained in 34.66 seconds
+50_ExtraTrees logloss 0.701034 trained in 32.98 seconds
+59_NeuralNetwork logloss 3.568475 trained in 26.46 seconds
+24_LightGBM logloss 0.626665 trained in 15.26 seconds
+15_Xgboost logloss 0.590655 trained in 16.39 seconds
+33_CatBoost logloss 0.594306 trained in 43.94 seconds
+42_RandomForest logloss 0.636853 trained in 45.68 seconds
+51_ExtraTrees logloss 0.693944 trained in 36.94 seconds
+60_NeuralNetwork logloss 2.1636 trained in 27.87 seconds
+25_LightGBM logloss 0.608567 trained in 15.69 seconds
+16_Xgboost logloss 0.693147 trained in 15.94 seconds
+34_CatBoost logloss 0.584464 trained in 114.28 seconds
+43_RandomForest logloss 0.633953 trained in 37.1 seconds
+52_ExtraTrees logloss 0.670379 trained in 34.74 seconds
+61_NeuralNetwork logloss 2.346893 trained in 30.64 seconds
+26_LightGBM logloss 0.619252 trained in 16.9 seconds
+17_Xgboost logloss 0.693147 trained in 16.15 seconds
+35_CatBoost logloss 0.571906 trained in 54.88 seconds
+44_RandomForest logloss 0.616569 trained in 44.2 seconds
+53_ExtraTrees logloss 0.636088 trained in 33.24 seconds
+62_NeuralNetwork logloss 2.336433 trained in 30.98 seconds
+27_LightGBM logloss 0.637798 trained in 17.65 seconds
+18_Xgboost logloss 0.60271 trained in 18.83 seconds
+36_CatBoost logloss 0.572384 trained in 43.1 seconds
+45_RandomForest logloss 0.605281 trained in 35.27 seconds
+54_ExtraTrees logloss 0.575354 trained in 41.39 seconds
+63_NeuralNetwork logloss 3.803695 trained in 32.2 seconds
+28_LightGBM logloss 0.58965 trained in 19.72 seconds
+19_Xgboost logloss 0.693147 trained in 18.17 seconds
+37_CatBoost logloss 0.572568 trained in 34.87 seconds
+46_RandomForest logloss 0.622082 trained in 44.52 seconds
+55_ExtraTrees logloss 0.674144 trained in 40.79 seconds
+64_NeuralNetwork logloss 3.524182 trained in 33.24 seconds
+* Step golden_features will try to check up to 3 models
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+None 100
+Add Golden Feature: ETA_eta_B_multiply_ATS4m
+Add Golden Feature: GATS8i_ratio_AXp-2d
+Add Golden Feature: ATSC7dv_ratio_BIC0
+Add Golden Feature: MATS8v_sum_MATS2m
+Add Golden Feature: ATSC7dv_ratio_BIC1
+Add Golden Feature: JGI5_multiply_ETA_shape_p
+Add Golden Feature: TopoPSA_multiply_GATS4c
+Add Golden Feature: AXp-3dv_sum_MATS4s
+Add Golden Feature: MATS8v_ratio_ATS4Z
+Add Golden Feature: ATSC6i_diff_SaaN
+Add Golden Feature: MATS1dv_ratio_Sare
+Add Golden Feature: ATSC5d_ratio_Sv
+Add Golden Feature: GATS8dv_diff_SsssCH
+Add Golden Feature: ATS2Z_ratio_EState_VSA10
+Add Golden Feature: AATSC8dv_diff_SM1_Dzi
+Add Golden Feature: ATSC5are_multiply_ATS6se
+Add Golden Feature: ATSC5are_multiply_ATS6are
+Add Golden Feature: MATS8v_ratio_Xp-4d
+Add Golden Feature: MATS8v_ratio_ATS2m
+Add Golden Feature: ATSC8dv_diff_ATSC6s
+Add Golden Feature: MATS2se_ratio_MATS3s
+Add Golden Feature: ATSC7dv_diff_ATSC3p
+Add Golden Feature: ETA_beta_s_ratio_SMR_VSA4
+Add Golden Feature: SlogP_VSA11_ratio_VSA_EState3
+Add Golden Feature: MID_h_multiply_NssssC
+Add Golden Feature: MATS8v_diff_GGI6
+Add Golden Feature: AATSC4p_diff_NsssN
+Add Golden Feature: IC2_multiply_GATS8Z
+Add Golden Feature: IC2_multiply_GATS8m
+Add Golden Feature: ATSC6i_diff_n7Ring
+Add Golden Feature: ATSC6i_diff_n7HRing
+Add Golden Feature: ATSC6i_diff_n7AHRing
+Add Golden Feature: GATS8p_multiply_GATS7dv
+Add Golden Feature: GATS8p_sum_GATS7dv
+Add Golden Feature: ETA_epsilon_4_ratio_SssNH
+Add Golden Feature: GATS7d_multiply_ATS1pe
+Add Golden Feature: AATS8s_diff_MATS8Z
+Add Golden Feature: VSA_EState3_multiply_AATSC2are
+Add Golden Feature: NssssC_multiply_nHetero
+Add Golden Feature: NssssC_multiply_SM1_Dzse
+Add Golden Feature: NssssC_multiply_ATSC0se
+Add Golden Feature: AATS2Z_multiply_AATS0s
+Add Golden Feature: AXp-0d_ratio_ATS2s
+Add Golden Feature: EState_VSA10_multiply_AATS8Z
+Add Golden Feature: MATS6Z_diff_GATS3Z
+Add Golden Feature: MATS8dv_diff_GGI7
+Add Golden Feature: SMR_VSA9_ratio_ATS4m
+Add Golden Feature: C3SP3_ratio_VR1_A
+Add Golden Feature: MATS5c_sum_AATS8are
+Add Golden Feature: JGI5_multiply_JGI2
+Add Golden Feature: RotRatio_sum_AATS3are
+Add Golden Feature: JGI8_multiply_Xpc-6d
+Add Golden Feature: GATS4pe_ratio_EState_VSA10
+Add Golden Feature: AATSC6Z_ratio_AMID_N
+Add Golden Feature: ATSC5d_ratio_AATS6v
+Add Golden Feature: GATS5m_sum_ATSC6i
+Add Golden Feature: ATSC6i_diff_SRW06
+Add Golden Feature: GATS5Z_sum_ATSC6i
+Add Golden Feature: GATS2Z_ratio_Xc-4dv
+Add Golden Feature: AETA_eta_L_ratio_ATSC8v
+Add Golden Feature: AATS8m_ratio_Lipinski
+Add Golden Feature: Lipinski_multiply_AATS8m
+Add Golden Feature: MATS6Z_ratio_AATSC4are
+Add Golden Feature: MATS6m_ratio_AATSC4are
+Add Golden Feature: AATSC2se_diff_AATSC0i
+Add Golden Feature: ATS4s_diff_AATS7m
+Add Golden Feature: SpDiam_Dzp_ratio_ATS3se
+Add Golden Feature: ATS3se_ratio_SpDiam_Dzp
+Add Golden Feature: WPol_multiply_AETA_eta_B
+Add Golden Feature: VE1_D_ratio_ATS5s
+Add Golden Feature: ATS5s_ratio_VE1_D
+Add Golden Feature: ETA_beta_ratio_GATS4are
+Add Golden Feature: ATSC6i_diff_naHRing
+Add Golden Feature: ATSC6i_diff_GATS7c
+Add Golden Feature: GATS7pe_sum_ATSC6i
+Add Golden Feature: ATSC6i_diff_GATS3i
+Add Golden Feature: ATSC6i_diff_AATSC5i
+Add Golden Feature: ATSC6i_diff_NaaN
+Add Golden Feature: ATSC6i_diff_SRW02
+Add Golden Feature: ATSC6i_diff_AETA_dBeta
+Add Golden Feature: ATSC6i_diff_n5aHRing
+Add Golden Feature: ATSC6i_diff_GATS7dv
+Add Golden Feature: GATS7Z_sum_ATSC6i
+Add Golden Feature: ATSC6i_diff_GATS8dv
+Add Golden Feature: GATS2pe_sum_ATSC6i
+Add Golden Feature: ATSC6i_diff_GATS7are
+Add Golden Feature: ATSC6i_diff_MATS5m
+Add Golden Feature: GATS2are_sum_ATSC6i
+Add Golden Feature: AATS8p_diff_ATSC6i
+Add Golden Feature: MATS1dv_sum_ATSC6i
+Add Golden Feature: ATSC6i_multiply_SpMax_A
+Add Golden Feature: ATSC6i_diff_Xp-5dv
+Add Golden Feature: ATSC5d_ratio_SMR
+Add Golden Feature: ATSC6i_diff_SdsN
+Add Golden Feature: ATSC6i_diff_GGI5
+Add Golden Feature: GATS6s_ratio_nBondsKD
+Add Golden Feature: nBondsKD_ratio_GATS6s
+Add Golden Feature: C2SP2_multiply_AATS8p
+Add Golden Feature: SIC3_ratio_ATSC4p
+Add Golden Feature: BIC5_ratio_ATSC4p
+Created 100 Golden Features in 215.69 seconds.
+31_CatBoost_GoldenFeatures logloss 0.545696 trained in 278.85 seconds
+7_Default_CatBoost_GoldenFeatures logloss 0.583439 trained in 48.78 seconds
+35_CatBoost_GoldenFeatures logloss 0.557787 trained in 109.4 seconds
+* Step insert_random_feature will try to check up to 1 model
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+31_CatBoost_GoldenFeatures_RandomFeature logloss 0.548138 trained in 1085.02 seconds
+Drop features ['ETA_eta_B_multiply_ATS4m', 'AXp-3dv_sum_MATS4s', 'GATS1m', 'AATS8m_ratio_Lipinski', 'ATSC7Z', 'AATS7se', 'SIC3_ratio_ATSC4p', 'SpDiam_Dzare', 'random_feature', 'GATS6se', 'VE2_A', 'GATS1Z', 'GATS7Z', 'MATS3i', 'Sse', 'MATS7pe', 'BCUTare-1h', 'AATSC2v', 'MATS8d', 'AETA_eta_FL', 'VR3_Dzse', 'ATS6i', 'AATSC4p_diff_NsssN', 'MWC02', 'SsCH3', 'nCl', 'GGI10', 'AXp-1dv', 'GATS7are', 'VE1_D_ratio_ATS5s', 'VE3_Dzv', 'EState_VSA3', 'BCUTm-1l', 'SMR_VSA6', 'BCUTs-1h', 'SlogP_VSA11_ratio_VSA_EState3', 'ATS2Z_ratio_EState_VSA10', 'Xp-4dv', 'AATSC4pe', 'AATS2p', 'AATS2Z_multiply_AATS0s', 'AATS5m', 'SpDiam_Dzpe', 'MDEC-22', 'GATS4dv', 'ATSC5s', 'AATSC2s', 'VR2_Dzv', 'MATS2dv', 'ZMIC1', 'AATS6v', 'ATSC7dv', 'ATSC7dv_diff_ATSC3p', 'JGI6', 'GATS8s', 'VSA_EState4', 'nFHRing', 'AATSC4s', 'ATSC1v', 'VR3_Dzm', 'AATS8se', 'AATSC1p', 'MATS8v_sum_MATS2m', 'GATS3pe', 'AATSC7d', 'AATS5d', 'EState_VSA10', 'AATSC8pe', 'GATS4se', 'Xc-4dv', 'MATS1dv_ratio_Sare', 'MATS1se', 'Kier2', 'GATS3se', 'Xp-1d', 'GATS8m', 'AATSC6se', 'BCUTv-1l', 'MATS1d', 'GATS8dv', 'ATSC8m', 'AATS5are', 'SpMAD_DzZ', 'MATS4Z', 'ATS5pe', 'MID_X', 'ATS8m', 'VE2_Dzm', 'ATSC6i_diff_n7Ring', 'VSA_EState6', 'AATSC3s', 'nAromBond', 'AATSC6dv', 'ATSC4se', 'Xp-7dv', 'C1SP3', 'BCUTdv-1h', 'MATS2se_ratio_MATS3s', 'SpMAD_Dzpe', 'SpAD_Dzv', 'AATS4m', 'BCUTZ-1l', 'FilterItLogS', 'SpAD_Dzi', 'AATS2s', 'ETA_beta_ns', 'ATSC2are', 'EState_VSA2', 'AATSC5pe', 'GATS3Z', 'ATS3s', 'ATSC8Z', 'MWC06', 'AATS6i', 'ETA_shape_x', 'AETA_eta_B', 'SRW06', 'SpMax_Dzv', 'ECIndex', 'SsssN', 'AATSC5Z', 'VE3_Dzi', 'ATSC4c', 'AATSC7are', 'Xch-6d', 'AATSC0i', 'piPC1', 'GATS4pe_ratio_EState_VSA10', 'BIC5_ratio_ATSC4p', 'MATS1pe', 'GATS2dv', 'BIC2', 'AATSC8c', 'VE2_Dzpe', 'MATS1s', 'AATS0se', 'AMID', 'ATSC5are_multiply_ATS6se', 'ATS5s_ratio_VE1_D', 'ATS7pe', 'Xch-5dv', 'SlogP_VSA6', 'AATS3v', 'AATS2se', 'GATS3dv', 'VE2_Dzp', 'GATS4v', 'piPC4', 'VE2_Dzv', 'ATSC2se', 'ATS6Z', 'MATS7se', 'AATS1m', 'ETA_beta_s', 'CIC0', 'ZMIC3', 'GATS7i', 'MATS2d', 'MATS4se', 'AATS3pe', 'MATS2p', 'JGT10', 'AATS5dv', 'MATS8v_ratio_Xp-4d', 'GATS4p', 'PEOE_VSA10', 'GATS2v', 'ATS0s', 'AETA_beta_ns', 'ATS0se', 'SdO', 'nG12FAHRing', 'AATSC7v', 'ATSC6i_diff_AETA_dBeta', 'SIC5', 'ATSC8se', 'VMcGowan', 'ATSC6i_diff_n7AHRing', 'AATS7dv', 'AXp-0d_ratio_ATS2s', 'nBondsKD', 'AETA_eta_L_ratio_ATSC8v', 'GATS5p', 'ATSC6i', 'piPC8', 'JGI10', 'AATS3d', 'ATSC7pe', 'AATSC4p', 'ATSC1i', 'JGI4', 'GATS8dv_diff_SsssCH', 'IC0', 'GATS3p', 'GATS3m', 'MID_h_multiply_NssssC', 'EState_VSA8', 'MDEC-33', 'GGI6', 'Mv', 'MATS4m', 'ETA_beta_s_ratio_SMR_VSA4', 'ATS5v', 'SssCH2', 'AATSC7p', 'GATS5are', 'Xc-3dv', 'ATSC4dv', 'MATS6d', 'AATSC1se', 'GATS7m', 'MATS2se', 'GATS6are', 'ATS1d', 'AATSC4dv', 'ATS4Z', 'ATS6v', 'n6aHRing', 'ATSC6i_diff_SRW06', 'AATSC6d', 'AATS4Z', 'ATSC7v', 'Xp-5dv', 'ATSC6c', 'AATSC2p', 'ATSC4Z', 'VR1_Dzp', 'MATS6m', 'ATSC6dv', 'CIC5', 'ATS4d', 'SpAD_Dzse', 'ATS2m', 'AATS6pe', 'AETA_eta_RL', 'AATSC8v', 'SsNH2', 'ETA_beta_ns_d', 'ATS6d', 'SlogP_VSA3', 'ZMIC2', 'ATSC6Z', 'piPC10', 'MATS7are', 'GATS8i_ratio_AXp-2d', 'AATS6m', 'AATSC0c', 'AATSC5p', 'ATSC3Z', 'ATS5i', 'GATS4c', 'ZMIC5', 'AATSC1Z', 'SpDiam_D', 'SpMax_Dzm', 'Sv', 'Xch-7dv', 'AATSC3dv', 'SIC2', 'ATSC6i_diff_GGI5', 'ATSC1pe', 'CIC3', 'GATS5v', 'nFAHRing', 'JGI5_multiply_ETA_shape_p', 'MPC10', 'SdssC', 'AATSC6pe', 'VR3_Dzare', 'TopoPSA(NO)', 'GATS3d', 'TopoPSA', 'AXp-4dv', 'AMID_X', 'AATS4dv', 'AATSC6are', 'JGI3', 'SZ', 'AATSC4i', 'MWC09', 'AATSC0s', 'ETA_alpha', 'nBondsKD_ratio_GATS6s', 'MATS6Z_ratio_AATSC4are', 'ATSC8dv_diff_ATSC6s', 'GATS8p', 'AATSC1d', 'PEOE_VSA1', 'AATSC6c', 'AATSC6Z', 'GATS8d', 'AATS6Z', 'ATSC1p', 'VE3_Dzare', 'ATS4v', 'IC2_multiply_GATS8Z', 'MPC4', 'MATS1c', 'AATSC5c', 'ATSC8are', 'ATS4are', 'ATS0d', 'ATSC4pe', 'AATS5v', 'MATS4are', 'AATSC5dv', 'SMR_VSA9_ratio_ATS4m', 'SpAbs_Dzse', 'ATSC0d', 'MATS3dv', 'C3SP3', 'ATSC4p', 'AATSC2m', 'Lipinski_multiply_AATS8m', 'ATSC3v', 'GATS6c', 'MIC5', 'SpAD_A', 'VE3_Dzpe', 'C3SP3_ratio_VR1_A', 'MATS6i', 'ATSC6are', 'ATS5dv', 'ATSC2p', 'GATS5m_sum_ATSC6i', 'ATSC0s', 'ATSC1Z', 'MATS7dv', 'BCUTpe-1l', 'ATS8p', 'MATS1dv_sum_ATSC6i', 'VSA_EState3', 'AXp-6d', 'Xpc-4d', 'ABC', 'VSA_EState9', 'LabuteASA', 'ATSC2Z', 'MID_O', 'ATS7Z', 'AATS3are', 'GATS3s', 'Xp-6dv', 'MPC6', 'AATSC7Z', 'nRot', 'GATS7dv', 'Xch-5d', 'AETA_beta', 'ATSC0i', 'AATS8pe', 'ATSC7dv_ratio_BIC0', 'CIC4', 'MID_h', 'ETA_dBeta', 'BCUTi-1h', 'VR1_Dzse', 'ETA_dPsi_A', 'MATS1dv', 'ATSC6i_multiply_SpMax_A', 'nHBDon', 'GATS4i', 'BCUTm-1h', 'MATS4v', 'EState_VSA9', 'AATS0p', 'BalabanJ', 'NssssC_multiply_SM1_Dzse', 'Mare', 'AXp-7dv', 'ATSC7m', 'MIC1', 'GATS1v', 'ATSC7d', 'AATS7s', 'AATSC7pe', 'Xc-5dv', 'AXp-4d', 'ATS1m', 'EState_VSA4', 'WPol_multiply_AETA_eta_B', 'ATSC7are', 'SpMAD_D', 'NdsCH', 'AXp-0dv', 'SpAbs_Dzv', 'MATS4d', 'ETA_psi_1', 'VR1_Dzpe', 'C1SP2', 'AXp-2dv', 'VAdjMat', 'GATS7pe', 'ATS4p', 'TMWC10', 'BertzCT', 'ATSC3pe', 'LogEE_Dzp', 'nF', 'NsssN', 'AATSC0dv', 'ATSC6d', 'SsssCH', 'mZagreb2', 'ATS3i', 'AATS5p', 'AATS3Z', 'ATS5Z', 'ATSC7p', 'MATS3are', 'ATSC3m', 'VE3_Dzm', 'VE1_Dzm', 'ATSC3p', 'VR1_DzZ', 'ATSC6p', 'ATSC7s', 'LogEE_Dzm', 'AATS1v', 'SpMAD_Dzm', 'BCUTd-1l', 'ATSC8p', 'BCUTd-1h', 'NssssC', 'AATS1are', 'BCUTdv-1l', 'SM1_Dzv', 'AATS4are', 'NaaaC', 'AATS7are', 'NaasC', 'AATS1p', 'ETA_eta_RL', 'MATS2m', 'MATS5Z', 'MATS1are', 'VR1_Dzm', 'AATSC2c', 'SM1_Dzpe', 'AATSC4c', 'SpAD_Dzpe', 'SaasN', 'ATSC7i', 'SpAD_Dzp', 'MATS3se', 'SpMAD_Dzv', 'NaaNH', 'NssCH2', 'SpMAD_Dzp', 'MATS6Z', 'ATSC3i', 'MATS6pe', 'ATSC6pe', 'ATSC5pe', 'GATS5i', 'SaaN', 'ATSC0are', 'ATSC1are', 'ATSC3are', 'MATS3pe', 'ATSC5are', 'ATSC5m', 'NtCH', 'GATS7p', 'GATS3i', 'SM1_Dzi', 'ATSC3s', 'BCUTp-1h', 'BCUTare-1l', 'ATSC1dv', 'VE2_Dzi', 'AATS1i', 'AXp-5d', 'AATS4i', 'GATS4Z', 'GATS6p', 'ATSC0dv', 'ATSC0c', 'ATSC1c', 'GATS8v', 'AXp-2d', 'ATSC8c', 'VE3_DzZ', 'AXp-0d', 'AXp-7d', 'AMID_N', 'GATS3v', 'MID', 'Si', 'Xp-6d', 'GATS6m', 'AMID_C', 'MID_N', 'Xp-0d', 'Xpc-5dv', 'ATSC2s', 'Sare', 'AATS4pe', 'ATSC8d', 'AATS2pe', 'SpAbs_Dzpe', 'ATSC1m', 'AATS2v', 'SddsN', 'NdssC', 'BCUTse-1h', 'AATS7v', 'AATS8v', 'AETA_eta_R', 'LogEE_DzZ', 'SpAD_DzZ', 'AATS5se', 'SpDiam_DzZ', 'NsCH3', 'BCUTv-1h', 'AATS6p', 'AATS7p', 'AATS8p', 'AATS0i', 'LogEE_Dzse', 'ATSC5dv', 'SpMAD_Dzse', 'SpDiam_Dzse', 'VR3_Dzv', 'ATSC3d', 'ATSC4d', 'SpAbs_DzZ', 'LogEE_Dzpe', 'ATSC2m', 'JGI1', 'ATSC0m', 'nH', 'ATS1p', 'ATS0p', 'nS', 'ATS8are', 'nBr', 'nX', 'ATS7are', 'ATS1dv', 'ATS2dv', 'ATS6are', 'ATS6dv', 'ATS7dv', 'ATS2are', 'nHetero', 'nHeavyAtom', 'AATSC0d', 'nAtom', 'ABCGG', 'nAcid', 'ATSC5p', 'GATS8c', 'GATS7c', 'GATS3c', 'SaaNH', 'GATS1dv', 'SddssS', 'Spe', 'MATS1i', 'MATS8p', 'nC', 'nBridgehead', 'ETA_beta', 'ATS8v', 'NtN', 'AATS5Z', 'NdsN', 'AATS7Z', 'NssNH', 'AATS5s', 'ATS4i', 'ATS8pe', 'SdsN', 'NaaN', 'ATS6pe', 'ATS4pe', 'ATS0pe', 'ATS8se', 'ATS7se', 'AATS2dv', 'ATS3se', 'NddsN', 'StN', 'ATS3are', 'ATS2i', 'AATS2d', 'ATS1i', 'AATS4d', 'NaasN', 'AATS7d', 'ATS6p', 'ATS5p', 'ATS1se', 'MATS7p', 'nAromAtom', 'VE1_Dzare', 'ATS2d', 'GATS7d', 'GATS2Z', 'SaaO', 'SpMAD_Dzi', 'ATSC4v', 'ATSC5v', 'NdNH', 'SpDiam_Dzi', 'ATSC8v', 'ATSC0se', 'ATSC1se', 'AETA_eta_F', 'ATSC5se', 'SpMax_Dzi', 'MATS3v', 'ATSC0pe', 'SpAbs_Dzi', 'MATS2v', 'VR3_Dzp', 'MATS8v', 'MATS1v', 'MATS5m', 'ATSC0Z', 'VE3_Dzp', 'NsNH2', 'AMID_O', 'ATSC5Z', 'SM1_Dzp', 'MATS3m', 'AATS7m', 'GATS6dv', 'ATS0Z', 'ATS3v', 'ATS3d', 'SpMAD_Dzare', 'ETA_eta_FL', 'SpAD_Dzare', 'ATS8Z', 'ATS0m', 'MATS6p', 'ATS6m', 'ATS7m', 'SsF', 'ATS0v', 'MATS4p', 'ATS2v', 'VR3_Dzpe', 'ATS8s', 'ETA_eta_L', 'GATS4s', 'VR2_D', 'ATS5d', 'SpMax_Dzare', 'SpAbs_Dzp', 'VR3_D', 'ATS1s', 'ATS4s', 'GATS2d', 'ATS5s', 'ATS6s', 'ATS7s', 'VE1_Dzp', 'AATS2Z', 'MPC2', 'TIC3', 'mZagreb1', 'NsF', 'C2SP3', 'NdS', 'ETA_epsilon_3', 'TopoPSA_multiply_GATS4c', 'MATS8v_ratio_ATS4Z', 'ATSC6i_diff_SaaN', 'ATSC5d_ratio_Sv', 'NssS', 'NaaS', 'AATSC8dv_diff_SM1_Dzi', 'SdNH', 'MATS8dv_diff_GGI7', 'WPol', 'Xc-6d', 'ATSC6i_diff_MATS5m', 'MATS6dv', 'AATSC7i', 'NddssS', 'MWC01', 'GATS7Z_sum_ATSC6i', 'ATSC6i_diff_GATS8dv', 'ATSC6i_diff_GATS7are', 'Vabc', 'PetitjeanIndex', 'ATSC5d_ratio_SMR', 'ATSC6i_diff_SdsN', 'TopoShapeIndex', 'Radius', 'Zagreb2', 'ATSC5are_multiply_ATS6are', 'NaaO', 'C4SP3', 'MPC3', 'Xc-4d', 'Kier1', 'VE1_D', 'AATSC6s', 'Lipinski', 'GhoseFilter', 'AATSC7s', 'SdS', 'n8FRing', 'n9FRing', 'n10FRing', 'AATSC0Z', 'ETA_dAlpha_A', 'MATS8v_diff_GGI6', 'ETA_eta_R', 'IC2_multiply_GATS8m', 'Xch-4dv', 'Xch-7d', 'GATS7d_multiply_ATS1pe', 'StsC', 'AATS8s_diff_MATS8Z', 'Xch-4d', 'NssssC_multiply_nHetero', 'HybRatio', 'NssssC_multiply_ATSC0se', 'AATSC7m', 'AATSC8m', 'AATSC0v', 'C2SP2_multiply_AATS8p', 'NsCl', 'MATS2s', 'GGI2', 'GGI5', 'SRW09', 'GGI7', 'nG12FARing', 'n12FARing', 'n10FARing', 'n9FARing', 'nG12FRing', 'MATS7s', 'n8FHRing', 'n9FHRing', 'n10FHRing', 'n12FHRing', 'nG12FHRing', 'nFaRing', 'n9FaRing', 'n10FaRing', 'nFaHRing', 'n9FaHRing', 'n10FaHRing', 'nFARing', 'n8FARing', 'GGI8', 'SRW08', 'AMW', 'SRW04', 'MATS3s', 'MWC08', 'SRW07', 'GGI4', 'GGI1', 'MATS2c', 'SRW10', 'NsBr', 'Diameter', 'MATS8c', 'MATS5s', 'ATSC5d_ratio_AATS6v', 'JGI8', 'AATSC5i', 'GATS2Z_ratio_Xc-4dv', 'StCH', 'JGI7', 'MATS5d', 'SaaaC', 'ATS4s_diff_AATS7m', 'MATS3d', 'AATSC3i', 'MWC03', 'Zagreb1', 'WPath', 'n12FRing', 'SLogP', 'n8FAHRing', 'n9FAHRing', 'n10FAHRing', 'n12FAHRing', 'MWC04', 'MW', 'TSRW10', 'SMR', 'MATS6c', 'LogEE_D', 'AATSC5s', 'ZMIC0', 'SlogP_VSA4', 'n5ARing', 'TMPC10', 'n6ARing', 'n7ARing', 'nAHRing', 'n5AHRing', 'n6AHRing', 'n7AHRing', 'nFRing', 'n7HRing', 'GATS1pe', 'n5HRing', 'nHRing', 'piPC2', 'GATS6pe', 'MATS3Z', 'piPC5', 'piPC6', 'VE1_DzZ', 'Mpe', 'Xp-3dv', 'TpiPC10', 'apol', 'nRing', 'n4Ring', 'n5Ring', 'n6Ring', 'n7Ring', 'NssO', 'GATS2pe', 'NsOH', 'n5aHRing', 'GATS1are', 'Xpc-5d', 'GATS2m', 'MPC7', 'MDEC-23', 'Xp-3d', 'Xp-0dv', 'EState_VSA7', 'GATS8are', 'Xp-1dv', 'GATS3are', 'SaaS', 'SsBr', 'Xp-2dv', 'SssS', 'GATS5pe', 'VSA_EState7', 'AXp-5dv', 'VSA_EState1', 'VSA_EState2', 'AXp-3dv', 'GATS5se', 'VSA_EState5', 'MPC9', 'NtsC', 'n4ARing', 'naRing', 'n5aRing', 'n6aRing', 'SlogP_VSA5', 'SlogP_VSA7', 'BIC0', 'PEOE_VSA11', 'AATSC8are', 'nHBAcc', 'nBondsS', 'nBonds', 'IC3', 'VR3_Dzi', 'MIC0', 'SlogP_VSA1', 'AATSC6v', 'PEOE_VSA5', 'PEOE_VSA6', 'AATSC3d', 'PEOE_VSA9', 'AATSC5d', 'PEOE_VSA12', 'C1SP1', 'SMR_VSA1', 'VR1_Dzi', 'SMR_VSA2', 'SMR_VSA4', 'AATSC8d', 'SpAD_D', 'SMR_VSA7', 'SMR_VSA9', 'PEOE_VSA4', 'PEOE_VSA3', 'C2SP1', 'C3SP2', 'MIC2', 'AATSC1s', 'VR3_DzZ', 'ETA_dPsi_B', 'AATS0Z', 'Xc-6dv', 'AATSC5se', 'BIC1', 'VE3_D', 'AATSC8se', 'BIC5', 'AATSC4se', 'AATSC3are', 'AATSC2se', 'Mp', 'SIC1', 'CIC1', 'CIC2', 'VE1_Dzi', 'TIC2', 'MATS2Z', 'AATSC0se', 'IC5', 'ETA_dEpsilon_A', 'nBondsT', 'AATSC0are', 'ETA_dEpsilon_D', 'TIC4', 'nBondsD', 'nBondsA', 'Xpc-6d', 'VE2_DzZ', 'Xch-6dv', 'MATS5dv', 'GATS4d', 'LogEE_Dzare', 'GATS7v', 'BCUTpe-1h', 'AATS5i', 'AATS4v', 'BCUTZ-1h', 'ETA_eta', 'BIC4', 'AATSC1pe', 'AATSC7se', 'GATS4are', 'AMID_h', 'MIC4', 'BCUTi-1l', 'BCUTc-1h', 'ATS0are', 'MATS5i', 'MWC07', 'MWC05', 'AATS0d', 'MATS3c', 'ATSC3dv', 'SpAbs_A', 'SRW02', 'SM1_Dzm', 'SpDiam_Dzv', 'MATS6m_ratio_AATSC4are', 'AXp-6dv', 'AATS0dv', 'VE1_Dzpe', 'AATS0pe', 'ATSC1s', 'nBondsKS', 'AATS6are', 'MATS8i', 'MATS7c', 'ATSC7dv_ratio_BIC1', 'AATS0s', 'piPC3', 'Xp-4d', 'AATS3p', 'AATS2i', 'n6HRing', 'ATS7p', 'EState_VSA1', 'MATS8Z', 'GATS1p', 'VR2_DzZ', 'AATS8m', 'MATS5c', 'ATSC6i_diff_Xp-5dv', 'ETA_epsilon_1', 'RotRatio', 'SpDiam_A', 'Mi', 'AATSC2dv', 'ATS2se', 'MPC8', 'AATSC3se', 'VR2_Dzpe', 'GATS5c', 'AATS7i', 'VSA_EState3_multiply_AATSC2are', 'SMR_VSA5', 'MATS7v', 'AATSC4d', 'ATSC6se', 'ATS0i', 'AATSC4are', 'NsssCH', 'ATSC6v', 'bpol', 'AATSC3Z', 'MATS6s', 'ETA_epsilon_2', 'VR2_Dzse', 'MATS8dv', 'VE1_Dzse', 'FCSP3', 'GATS7s', 'ATS6se', 'piPC7', 'SpMax_Dzse', 'MATS1p', 'IC2', 'AATS5pe', 'nO', 'GATS5d', 'AATSC0pe', 'AATS1pe', 'PEOE_VSA7', 'GATS2se', 'SsOH', 'GATS1d', 'GGI9', 'GATS1se', 'SlogP_VSA8', 'BCUTc-1l', 'EState_VSA10_multiply_AATS8Z', 'ATSC2v', 'ATSC5c', 'AATS2are', 'MID_C', 'ATS0dv', 'SIC4', 'SssssC', 'AATSC8p', 'AATSC4m', 'Sp', 'AATSC1m', 'VE2_Dzse', 'AETA_beta_ns_d', 'SssO', 'AATSC6m', 'AATS0m', 'SpMAD_A', 'GATS6s_ratio_nBondsKD', 'SpAD_Dzm', 'GATS6s', 'AATSC0p', 'NdO', 'MWC10', 'ATSC4are', 'AATSC6p', 'AATS3s', 'GATS8p_multiply_GATS7dv', 'AETA_beta_s', 'JGI2', 'ATSC6s', 'ATSC4m', 'ATSC2pe', 'AATS6se', 'ETA_dAlpha_B', 'ATS3m', 'fragCpx', 'ATSC2c', 'ATSC6i_diff_AATSC5i', 'AATSC8Z', 'AATSC6Z_ratio_AMID_N', 'VR2_Dzp', 'AATSC3pe', 'ETA_dEpsilon_C', 'VSA_EState8', 'ATS5are', 'AATS3m', 'GATS2s', 'ETA_eta_BR', 'GATS8se', 'AATS1Z', 'ETA_shape_p', 'EState_VSA6', 'fMF', 'SpAbs_Dzare', 'SpMax_Dzpe', 'GATS8p_sum_GATS7dv', 'MATS3p', 'AATSC3p', 'ETA_dEpsilon_B', 'GATS5Z_sum_ATSC6i', 'JGI9', 'VR1_Dzv', 'AATS1se', 'ETA_epsilon_4_ratio_SssNH', 'SpMax_Dzp', 'SlogP_VSA10', 'AATS8Z', 'AATSC4Z', 'SM1_DzZ', 'ATSC3se', 'ATS7d', 'SdsCH', 'SIC3', 'ETA_epsilon_4', 'ATSC4i', 'MATS4pe', 'MATS7i', 'AATSC4v', 'AATSC2Z', 'JGI8_multiply_Xpc-6d', 'VE1_Dzv', 'MATS5se', 'AATS8are', 'GATS6v', 'AATS8d', 'nBase', 'Sm', 'GATS7se', 'Mm', 'AATSC1are', 'SpAbs_Dzm', 'AATSC7c', 'AATS7pe', 'ATSC6i_diff_GATS3i', 'MATS7d', 'ATS2Z', 'ATSC7se', 'ATS3Z', 'ATS4se', 'ATS3pe', 'ATSC1d', 'MPC5', 'MATS5are', 'MATS8se', 'SMR_VSA3', 'GATS6i', 'SlogP_VSA11', 'GATS8pe', 'SpDiam_Dzp_ratio_ATS3se', 'nBondsO', 'nBondsM', 'AATSC2se_diff_AATSC0i', 'VR2_Dzare', 'ATS2p', 'GGI3', 'AATS3i', 'GATS5m', 'GATS4pe', 'MATS6are', 'MATS5pe', 'AATSC2d', 'GATS5s', 'LogEE_Dzv', 'ATS4m', 'ATSC6i_diff_NaaN', 'TIC1', 'AATS3se', 'MATS2pe', 'ATS7i', 'AXp-3d', 'AATSC7dv', 'ETA_beta_ratio_GATS4are', 'SpAbs_D', 'VR2_Dzi', 'ATS8d', 'AETA_alpha', 'SM1_Dzare', 'AATS8i', 'AATS4s', 'SpMax_A', 'AATSC3c', 'MATS7Z', 'ATSC8pe', 'SaaCH', 'nARing', 'AATS4p', 'ATSC3c', 'SpMax_D', 'RPCG', 'MATS8m', 'GATS1i', 'MATS8are', 'AETA_eta_BR', 'AATSC8i', 'ATSC8i', 'VR3_A', 'MATS6v', 'AATS1d', 'LogEE_Dzi', 'AATS2m', 'naHRing', 'MATS6se', 'ATSC0p', 'SlogP_VSA2', 'AETA_eta_L', 'ATS2s', 'ATS5se', 'GATS2are_sum_ATSC6i', 'AATSC0m', 'IC4', 'AATSC1i', 'C2SP2', 'JGI5_multiply_JGI2', 'GATS4m', 'ATS8dv', 'AXp-1d', 'MATS4i', 'ATS3se_ratio_SpDiam_Dzp', 'AATS1dv', 'VR1_D', 'AATSC3v', 'Xc-5d', 'AATSC5are', 'ATSC6i_diff_n5aHRing', 'AATSC1v', 'VE3_Dzse', 'ATS1Z', 'VR2_Dzm', 'ZMIC4', 'ATSC8s', 'ETA_epsilon_5', 'ATSC2i', 'PEOE_VSA13', 'VR1_Dzare', 'ATS4dv', 'PEOE_VSA2', 'SpMax_DzZ', 'TIC5', 'ATS1pe', 'ATSC8dv', 'AATSC8dv', 'ATSC5d', 'EState_VSA5', 'MATS4s', 'SM1_Dzse', 'MATS8v_ratio_ATS2m', 'GATS2pe_sum_ATSC6i', 'Kier3', 'ATSC0v', 'MATS5c_sum_AATS8are', 'LogEE_A', 'MZ', 'nN', 'ATSC2d', 'IC1', 'MATS6Z_diff_GATS3Z', 'ATSC6i_diff_naHRing', 'SpDiam_Dzp', 'MATS8pe', 'AATSC2i', 'MATS2i', 'RNCG', 'ATS7v', 'ATSC6m', 'AETA_dBeta', 'AATS0are', 'ATS5m', 'GATS6d', 'ATS1are', 'GATS5dv', 'ETA_eta_B', 'AATSC3m', 'BIC3', 'AATS6dv', 'VE2_Dzare', 'AATSC6i', 'Xpc-4dv', 'AATSC5m', 'AATS0v', 'GATS2p', 'Mse', 'Xpc-6dv', 'piPC9', 'PEOE_VSA8', 'TIC0', 'Xp-2d', 'Xc-3d', 'MATS8s', 'ATSC4s', 'GATS2are', 'AATSC1dv', 'GATS8Z', 'ATS2pe', 'VR1_A', 'ATS3dv', 'MATS4c', 'AATS6d', 'BCUTse-1l', 'SRW05', 'VE2_D', 'SpDiam_Dzm', 'AATSC2are', 'GATS2c', 'SaasC', 'MATS5v', 'VE1_A', 'ATSC6i_diff_n7HRing', 'Xp-5d', 'AATSC5v', 'ETA_eta_F', 'ATSC6i_diff_GATS7dv', 'AATS8dv', 'MATS7m', 'GATS1s', 'ATSC2dv', 'SssNH', 'SsCl', 'AATS6s', 'ATSC6i_diff_SRW02', 'MATS4dv', 'BCUTp-1l', 'GATS2i', 'AATS8s', 'AATS8p_diff_ATSC6i', 'AATSC8s', 'SIC0', 'RotRatio_sum_AATS3are', 'ATSC6i_diff_GATS7c', 'ATSC5i', 'AATS4se', 'GATS8i', 'AETA_eta', 'VR2_A', 'ATSC7c', 'ATS1v', 'AATS3dv', 'AATSC1c', 'GATS1c', 'VE3_A', 'JGI5', 'ATS3p', 'MATS1Z', 'Xp-7d', 'MATS2are', 'AATS1s', 'ATS8i', 'MATS5p', 'GATS6Z', 'NaaCH', 'MATS1m', 'AATSC2pe', 'GATS7pe_sum_ATSC6i', 'BCUTs-1l', 'GATS5Z', 'ETA_shape_y', 'MIC3']DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+2022-09-26 14:37:06,811 supervised.exceptions ERROR All features are droppped! Your data looks like random data.
+2022-09-26 14:37:06,897 supervised.exceptions ERROR All features are droppped! Your data looks like random data.
+2022-09-26 14:37:06,974 supervised.exceptions ERROR All features are droppped! Your data looks like random data.
+2022-09-26 14:37:07,052 supervised.exceptions ERROR All features are droppped! Your data looks like random data.
+2022-09-26 14:37:07,130 supervised.exceptions ERROR All features are droppped! Your data looks like random data.
+2022-09-26 14:37:07,887 supervised.exceptions ERROR All features are droppped! Your data looks like random data.
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+ntree_limit is deprecated, use `iteration_range` or model slicing instead.
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+An input array is constant; the correlation coefficient is not defined.
+An input array is constant; the correlation coefficient is not defined.
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead.  To get a de-fragmented frame, use `newframe = frame.copy()`
+
+* Step features_selection will try to check up to 6 models
+There was an error during 31_CatBoost_GoldenFeatures_SelectedFeatures training.
+Please check mljar_AutoML_Compete_2022_09_26_13_38_07/errors.md for details.
+There was an error during 54_ExtraTrees_SelectedFeatures training.
+Please check mljar_AutoML_Compete_2022_09_26_13_38_07/errors.md for details.
+There was an error during 11_Xgboost_SelectedFeatures training.
+Please check mljar_AutoML_Compete_2022_09_26_13_38_07/errors.md for details.
+There was an error during 28_LightGBM_SelectedFeatures training.
+Please check mljar_AutoML_Compete_2022_09_26_13_38_07/errors.md for details.
+There was an error during 41_RandomForest_SelectedFeatures training.
+Please check mljar_AutoML_Compete_2022_09_26_13_38_07/errors.md for details.
+There was an error during 56_NeuralNetwork_SelectedFeatures training.
+Please check mljar_AutoML_Compete_2022_09_26_13_38_07/errors.md for details.
+* Step hill_climbing_1 will try to check up to 32 models
+65_CatBoost_GoldenFeatures logloss 0.570135 trained in 49.66 seconds
+66_CatBoost_GoldenFeatures logloss 0.558173 trained in 73.41 seconds
+67_CatBoost logloss 0.575741 trained in 46.77 seconds
+68_CatBoost logloss 0.602974 trained in 65.26 seconds
+69_CatBoost logloss 0.56939 trained in 42.37 seconds
+70_CatBoost logloss 0.559278 trained in 58.24 seconds
+71_ExtraTrees logloss 0.635918 trained in 38.6 seconds
+72_ExtraTrees logloss 0.6297 trained in 36.82 seconds
+73_Xgboost logloss 0.591696 trained in 24.64 seconds
+74_LightGBM logloss 0.58965 trained in 23.05 seconds
+75_Xgboost logloss 0.579742 trained in 29.08 seconds
+76_Xgboost logloss 0.591109 trained in 24.32 seconds
+77_RandomForest logloss 0.62234 trained in 40.61 seconds
+78_RandomForest logloss 0.642797 trained in 45.97 seconds
+79_Xgboost logloss 0.595777 trained in 22.61 seconds
+80_LightGBM logloss 0.600279 trained in 22.94 seconds
+81_LightGBM logloss 0.600279 trained in 23.74 seconds
+82_RandomForest logloss 0.605007 trained in 40.34 seconds
+83_RandomForest logloss 0.626719 trained in 43.19 seconds
+84_RandomForest logloss 0.609038 trained in 43.26 seconds
+85_RandomForest logloss 0.589735 trained in 42.42 seconds
+86_LightGBM logloss 0.608567 trained in 26.04 seconds
+87_LightGBM logloss 0.608567 trained in 24.39 seconds
+88_ExtraTrees logloss 0.636021 trained in 39.51 seconds
+89_ExtraTrees logloss 0.59392 trained in 45.52 seconds
+90_ExtraTrees logloss 0.61135 trained in 41.51 seconds
+91_DecisionTree logloss 1.415406 trained in 25.84 seconds
+92_NeuralNetwork logloss 2.445177 trained in 39.74 seconds
+93_NeuralNetwork logloss 0.68109 trained in 36.62 seconds
+94_NeuralNetwork logloss 3.045518 trained in 35.55 seconds
+95_DecisionTree logloss 2.461763 trained in 20.9 seconds
+96_DecisionTree logloss 4.257701 trained in 20.52 seconds
+* Step hill_climbing_2 will try to check up to 14 models
+97_CatBoost_GoldenFeatures logloss 0.585699 trained in 67.93 seconds
+98_CatBoost_GoldenFeatures logloss 0.545204 trained in 82.69 seconds
+99_CatBoost logloss 0.575976 trained in 65.26 seconds
+100_CatBoost logloss 0.579782 trained in 57.42 seconds
+101_CatBoost logloss 0.566259 trained in 55.36 seconds
+102_CatBoost logloss 0.546841 trained in 50.68 seconds
+103_ExtraTrees logloss 0.633604 trained in 45.22 seconds
+104_LightGBM logloss 0.58965 trained in 26.39 seconds
+105_RandomForest logloss 0.661498 trained in 49.31 seconds
+106_RandomForest logloss 0.560881 trained in 49.15 seconds
+107_ExtraTrees logloss 0.644348 trained in 44.37 seconds
+108_LightGBM logloss 0.600279 trained in 26.61 seconds
+109_RandomForest logloss 0.65338 trained in 47.03 seconds
+110_ExtraTrees logloss 0.641075 trained in 46.09 seconds
+* Step ensemble will try to check up to 1 model
+Ensemble logloss 0.510172 trained in 63.69 seconds
+AutoML fit time: 5612.57 seconds
+AutoML best model: Ensemble
+GENERATING REPORT
+my_params =  {'algorithms': ['Baseline', 'Linear', 'Decision Tree', 'Random Forest', 'Extra Trees', 'LightGBM', 'Xgboost', 'CatBoost', 'Neural Network', 'Nearest Neighbors'], 'boost_on_errors': 'auto', 'eval_metric': 'auto', 'explain_level': 'auto', 'features_selection': 'auto', 'golden_features': 'auto', 'hill_climbing_steps': 'auto', 'kmeans_features': 'auto', 'max_single_prediction_time': None, 'mix_encoding': 'auto', 'ml_task': 'binary_classification', 'mode': 'Compete', 'model_time_limit': None, 'n_jobs': -1, 'optuna_init_params': {}, 'optuna_time_budget': None, 'optuna_verbose': True, 'random_state': 779871, 'results_path': 'mljar_AutoML_Compete_2022_09_26_13_38_07', 'stack_models': 'auto', 'start_random_models': 'auto', 'top_models_to_improve': 'auto', 'total_time_limit': 172800, 'train_ensemble': True, 'validation_strategy': {'validation_type': 'custom'}, 'verbose': 1}
+Best model name: Ensemble
+Best model metric: =  0.5101718695463664
+automl.eval_metric: auto
+Eval metric is  logloss
+
+TRAINING
+Metric  logloss  =  1.7622151057579005
+            logloss       auc        f1  ...  precision    recall       mcc
+score      0.704874  0.928021  0.963504  ...   0.942857  0.985075  0.881222
+threshold       NaN       NaN  0.000000  ...   0.000000  0.000000  0.000000
+
+[2 rows x 7 columns]
+Training score reg-R2/class-accuracy: 0.9489795918367347
+K-FOLD-CV
+Results files  mljar_AutoML_Compete_2022_09_26_13_38_07/Ensemble/predictions_ensemble.csv
+Metric  logloss  =  0.5101718695463664
+            logloss       auc        f1  accuracy  precision   recall       mcc
+score      0.510172  0.782619  0.841379  0.765306   1.000000  1.00000  0.449421
+threshold       NaN       NaN  0.508194  0.508194   0.827978  0.13551  0.620594
+VALIDATION
+Metric  logloss  =  10.442178797744214
+            logloss       auc        f1  ...  precision    recall       mcc
+score      4.176783  0.554187  0.811594  ...        0.7  0.965517  0.199342
+threshold       NaN       NaN  0.000000  ...        0.0  0.000000  0.000000
+
+[2 rows x 7 columns]
+validation score reg-R2/class-accuracy: 0.6976744186046512
+Stop Mon Sep 26 03:14:22 PM CEST 2022

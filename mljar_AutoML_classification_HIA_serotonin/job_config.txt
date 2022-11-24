@@ -1,0 +1,3 @@
+1 2 3 4 5 23 24 25 26 30 31 32 33 34 35 36 37 38 39
+multicore
+#un-hash the above line to use multicore mode - please be careful when using it - node with this flag will be unavilable to the others as long as your computations are working

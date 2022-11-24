@@ -1,0 +1,2 @@
+v 9.2 - fixed and modified validation_model_with_xternal_dataset.py
+v 9.1 - fixed wrong export of the validation data to the t-res file
